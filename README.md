@@ -110,37 +110,37 @@
 
 **상상놀이터 메인 테마맵**
 
-![놀터.png](C:\Users\multicampus\Desktop\놀터.png)
+![](assets/2022-11-23-13-54-01-image.png)
 
 </br>
 
 **게임 테마 - 정글 <우가우가숲>**
 
-![우가우가숲.png](C:\Users\multicampus\Desktop\우가우가숲.png)
+![](assets/2022-11-23-13-53-40-image.png)
 
 </br>
 
 **게임 테마 - 우주 <갤럭시월드>**
 
-![우주맵.png](C:\Users\multicampus\Desktop\우주맵.png)
+![](assets/2022-11-23-13-54-12-image.png)
 
 </br>
 
 **게임 테마 - 바다 <언더더씨>**
 
-![언더더씨.png](C:\Users\multicampus\Desktop\언더더씨.png)
+![](assets/2022-11-23-13-54-21-image.png)
 
 </br>
 
 **이벤트 테마 - 크리스마스 <눈 내리는 마을>**
 
-![클스마스.png](C:\Users\multicampus\Desktop\클스마스.png)
+![](assets/2022-11-23-13-54-32-image.png)
 
 </br>
 
-**웹 페이지\**
+**관리자 페이지\**
 
-![관페.png](C:\Users\multicampus\Desktop\관페.png)
+![](assets/2022-11-23-13-54-40-image.png)
 
 </br>
 
